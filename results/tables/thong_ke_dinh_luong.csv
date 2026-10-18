@@ -1,0 +1,6 @@
+,count,mean,median,std,variance,min,25%,75%,max
+Age at enrollment,3630.0,23.461,20.0,7.828,61.277,17.0,19.0,25.0,70.0
+Curricular units 1st sem (approved),3630.0,4.791,5.0,3.238,10.484,0.0,3.0,6.0,26.0
+Curricular units 1st sem (grade),3630.0,10.535,12.341,5.058,25.58,0.0,11.0,13.5,18.875
+Curricular units 2nd sem (approved),3630.0,4.518,5.0,3.162,10.001,0.0,2.0,6.0,20.0
+Curricular units 2nd sem (grade),3630.0,10.036,12.333,5.482,30.049,0.0,10.518,13.5,18.571

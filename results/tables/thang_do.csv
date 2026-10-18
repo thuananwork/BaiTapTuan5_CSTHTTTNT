@@ -1,0 +1,9 @@
+,min,max,mean,std
+Tuition fees up to date,0.0,1.0,0.866,0.341
+Debtor,0.0,1.0,0.114,0.318
+Scholarship holder,0.0,1.0,0.267,0.442
+Age at enrollment,17.0,70.0,23.461,7.828
+Curricular units 1st sem (approved),0.0,26.0,4.791,3.238
+Curricular units 1st sem (grade),0.0,18.875,10.535,5.058
+Curricular units 2nd sem (approved),0.0,20.0,4.518,3.162
+Curricular units 2nd sem (grade),0.0,18.571,10.036,5.482

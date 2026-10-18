@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+python-docx
+# Chỉ cần cho chay_tabicl.py (kéo theo PyTorch, lần đầu chạy tự tải trọng số):
+tabicl

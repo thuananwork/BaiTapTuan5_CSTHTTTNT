@@ -1,0 +1,28 @@
+{
+ "n_raw": 4424,
+ "n_used": 3630,
+ "n_features": 36,
+ "raw_counts": {
+  "Graduate": 2209,
+  "Dropout": 1421,
+  "Enrolled": 794
+ },
+ "dropout_rate_used": 0.39146005509641874,
+ "missing": 0,
+ "n_train": 2904,
+ "n_test": 726,
+ "dropout_rate_train": 0.3915289256198347,
+ "dropout_rate_test": 0.39118457300275483,
+ "outliers_iqr": {
+  "Age at enrollment": 389,
+  "Curricular units 1st sem (approved)": 165,
+  "Curricular units 1st sem (grade)": 652,
+  "Curricular units 2nd sem (approved)": 44,
+  "Curricular units 2nd sem (grade)": 803
+ },
+ "zero_grade_sem2": 802,
+ "zero_grade_sem2_dropout_rate": 0.9064837905236908,
+ "sklearn_train_loss_optimum": 0.3298445917731046,
+ "max_abs_diff_weights": 0.0004980167239068134,
+ "gd_iters_to_converge": 1514
+}

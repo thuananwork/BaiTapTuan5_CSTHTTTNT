@@ -1,0 +1,10 @@
+dac_trung,w_tu_cai,w_sklearn
+Tuition fees up to date,-0.8706,-0.8711
+Debtor,0.3227,0.3227
+Scholarship holder,-0.5311,-0.531
+Age at enrollment,0.3018,0.3017
+Curricular units 1st sem (approved),0.3467,0.3472
+Curricular units 1st sem (grade),0.2561,0.2557
+Curricular units 2nd sem (approved),-2.0855,-2.0859
+Curricular units 2nd sem (grade),-0.4663,-0.4659
+(bias),-0.5454,-0.5453
