@@ -48,7 +48,7 @@ def build():
     S.append(section("1. Bai toan va du lieu",
         img("h1_phan_bo_nhan.png", "Phan bo nhan sau khi bo nhom dang hoc") + img("h4_ty_le_theo_nhom.png", "Ty le bo hoc theo tien bac") +
         table(csv("thong_ke_dinh_tinh.csv"), pct=("ty_le", "ty_le_bo_hoc")),
-        "Moi sinh vien la mot o tren ban do min: tot nghiep = an toan (0), bo hoc = min (1), dang hoc = o chua lat nen loai ra. 3.630 em, 39,1% bo hoc."))
+        "Moi sinh vien la mot dong 8 con so. Tot nghiep = 0, bo hoc = 1; nhom dang hoc chua biet ket cuc nen loai ra. Con 3.630 em, 39,1% bo hoc."))
     S.append(section("2. Thong ke mo ta", table(csv("thong_ke_dinh_luong.csv")) + img("h2_boxplot.png", "Boxplot bien dinh luong") + img("h3_tuong_quan.png", "Tuong quan"),
         "Diem hoc ky 2 bang 0 thuong la em da nghi (khoang 91% bo hoc), nen du lieu hoc ky 2 phan nao chua san dap an."))
     sk = None

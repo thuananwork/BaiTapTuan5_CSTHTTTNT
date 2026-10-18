@@ -12,7 +12,7 @@ Môn Cơ sở Toán học cho Trí tuệ nhân tạo. Đề tài: nghiên cứu 
 | Chạy code | bấm đúp `run.bat` (tự cài, chạy, mở web), hoặc xem `docs/HUONG_DAN_CHAY_CODE.md` |
 | Luyện trả lời thầy | `docs/HoiDap_Thay.md` |
 | Nộp báo cáo Word | `report/BaoCao_TabICLv2_BoHoc.docx` |
-| Trình bày | `docs/KICH_BAN_THUYET_TRINH.md` (kịch bản nói, khớp file `slides/Bài thuyết trình (đã sửa) - thêm chú thích.pptx`, 16 trang) |
+| Trình bày | `docs/KICH_BAN_THUYET_TRINH.md` (kịch bản nói, khớp file `slides/Bài thuyết trình (đã sửa) - thêm chú thích (v3).pptx`, 16 trang) |
 
 ## Cấu trúc
 
